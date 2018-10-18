@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "All In Sports",
+  "short_name": "All In Sports",
+  "version": "io.cordova.hellocordova",
+  "description": "Bets and fun with this app.",
+  "author": "Cesar Sanchez",
+  "icons": [],
+  "start_url": "index.html"
+}
